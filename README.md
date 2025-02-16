@@ -1,4 +1,4 @@
-# 📌 Microservices Architecture with Gateway, Orchestrator, and Saga Pattern
+# 🚀 Microservices Architecture with Gateway, Orchestrator, and Saga Pattern
 
 <h4 align="left">📖 Overview
 This project demonstrates example of implementing: </h4> 
@@ -81,7 +81,7 @@ This project demonstrates example of implementing: </h4>
 &emsp;&ensp;Processes transactions  
 &emsp;&ensp;Publishes payment success/failure
 
-<h3 align="left">🚀 Future Improvements  </h3>  
+<h3 align="left">📌 Future Improvements  </h3>  
 
 &emsp;&ensp;**1.** Implement Idempotency   
 &emsp;&ensp;**2.** Implement Distributed Tracing (OpenTelemetry)  
