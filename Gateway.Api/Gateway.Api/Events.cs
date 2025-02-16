@@ -1,1 +1,0 @@
-﻿public record CreateOrderCommand(Guid OrderId);
