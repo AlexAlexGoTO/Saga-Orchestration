@@ -30,7 +30,7 @@ This project demonstrates example of implementing: </h4>
 **🔹 Purpose**: Handle Orders and Users request  
 **🔹 Communication**:  
 &emsp;&ensp;Gateway redirects Users requests to -> UserService through HTTP protocol  
-&emsp;&ensp;Orders requests go to -> Orchestrator through AMPQ protocol
+&emsp;&ensp;Orders requests go to -> Orchestrator through AMPQ protocol  
 **🔹 Responsibilities**:  
 &emsp;&ensp;Request routing 
 
